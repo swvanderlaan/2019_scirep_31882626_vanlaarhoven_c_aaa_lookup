@@ -1,6 +1,6 @@
 Polygenic Susceptibility of Aortic Aneurysms Associates to the Diameter of the Aneurysm Sac: The Aneurysm-Express Biobank Cohort
 ===========================================================
-[![DOI](https://zenodo.org/badge/259760088.svg)](https://zenodo.org/badge/latestdoi/259760088)
+[![DOI](https://zenodo.org/badge/273181713.svg)](https://zenodo.org/badge/latestdoi/273181713)
 
 #### This readme
 This readme accompanies the paper "Polygenic Susceptibility of Aortic Aneurysms Associates to the Diameter of the Aneurysm Sac: The Aneurysm-Express Biobank Cohort." by Van Laarhoven C.J.H.C.M. _et al_. and [Van Laarhoven C.J.H.C.M. _et al_. **Sci Rep 2019**](https://doi.org/10.1038/s41598-019-56230-3).
