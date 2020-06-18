@@ -1,0 +1,17 @@
+# 2019-11-12 by Constance van Laarhoven
+# Read me for individual SNP lookup
+
+# Every analysis is performed by the GWAStoolkit software (swvanderlaan github: https://github.com/swvanderlaan/GWASToolKit / DOI: https://zenodo.org/badge/latestdoi/55601542 )
+
+# In the Individual_SNP_lookup file you will find:
+# 1. variantlist = file with the single nucleotide polymorphism (SNP) number you want to study: rs number-chromosome-basepair
+# 2. genelist = nearest genes of the included SNPs
+# 3. aaags.phenocov.sample_scirep = example sample file which is coded conform SNPtest method (https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html#input_file_formats)
+# 4. phenotypes_XXX_scirep & phenotypes_scirep = phenotype files seperated in continue and categorical or binary variables, names have to be identical!
+# 5. covariates_XXX_scirep = covariates that needs to be included in the analysis, different covariates per phenotypes therefore seperate files
+# 6. exclusion_nonAAAGS_scirep = exclusion list of patients (e.g. patients with connective tissue disorders, mycotic aneurysm, ea)
+# 7. imputed data = path to genotyped imputed data
+# 8. reference data = path to the reference data
+# 9. gwastoolkit_AAA_XXX_conf = conf files which include all steps and files listed above. For different settings consult SNPtest (https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html#introduction)
+# 
+# Make sure that SNPtest versions are compatible with your conf scripts!

@@ -1,0 +1,14 @@
+# 2019-11-12 by Constance van Laarhoven
+# Read me for Polygenic Risk Score Analysis
+
+# Every analysis is performed by use of the PRSice software (https://www.prsice.info)
+
+# In the Polygenic_Risk_Score file you will find:
+# 1. aaags_phenocov.pheno = example of xphenotype and covariates file for the analysis
+# 2. exclusion_nonAAAGS_ID_scirep = exclusion list of patients that are not included in the analysis
+# 3. prsice_AAA_XXX_scirep = R based script for using PRSice software > check the software for different settings
+# 4. BASEDATA = path to the gwas data for estimated risk effects of included single nucleotide polymorphisms (SNPs) or genetic risk variants
+# 5. TARGETDATA = path to the genotyped data of your study cohort
+#
+#
+# Make sure all phenotype and covariate names are compatible with each other!
